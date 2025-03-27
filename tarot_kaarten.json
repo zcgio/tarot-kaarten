@@ -2,61 +2,469 @@
   {
     "nummer": 0,
     "naam": "De Dwaas",
-    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/0-The-Fool.jpg",
-    "betekenis": "Staat voor nieuwe beginnen, spontaniteit en het nemen van risico's."
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/0-De-Dwaas.jpg",
+    "betekenis": "Betekenis van De Dwaas in het Nederlands."
   },
   {
     "nummer": 1,
     "naam": "De Magiër",
-    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/1-The-Magician.jpg",
-    "betekenis": "Symboliseert kracht, vaardigheid en het benutten van potentieel."
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/1-De-Magiër.jpg",
+    "betekenis": "Betekenis van De Magiër in het Nederlands."
   },
   {
     "nummer": 2,
     "naam": "De Hogepriesteres",
-    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/2-The-High-Priestess.jpg",
-    "betekenis": "Staat voor intuïtie, geheimen en innerlijke wijsheid."
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/2-De-Hogepriesteres.jpg",
+    "betekenis": "Betekenis van De Hogepriesteres in het Nederlands."
   },
   {
     "nummer": 3,
     "naam": "De Keizerin",
-    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/3-The-Empress.jpg",
-    "betekenis": "Symboliseert vruchtbaarheid, overvloed en moederlijke zorg."
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/3-De-Keizerin.jpg",
+    "betekenis": "Betekenis van De Keizerin in het Nederlands."
   },
   {
     "nummer": 4,
     "naam": "De Keizer",
-    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/4-The-Emperor.jpg",
-    "betekenis": "Staat voor stabiliteit, autoriteit en structuur."
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/4-De-Keizer.jpg",
+    "betekenis": "Betekenis van De Keizer in het Nederlands."
   },
   {
     "nummer": 5,
     "naam": "De Hiërofant",
-    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/5-The-Hierophant.jpg",
-    "betekenis": "Verwijst naar traditie, spiritualiteit en leren van een mentor."
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/5-De-Hiërofant.jpg",
+    "betekenis": "Betekenis van De Hiërofant in het Nederlands."
   },
   {
     "nummer": 6,
     "naam": "De Geliefden",
-    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/6-The-Lovers.jpg",
-    "betekenis": "Gaat over liefde, keuzes en verbondenheid."
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/6-De-Geliefden.jpg",
+    "betekenis": "Betekenis van De Geliefden in het Nederlands."
   },
   {
     "nummer": 7,
     "naam": "De Zegewagen",
-    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/7-The-Chariot.jpg",
-    "betekenis": "Staat voor overwinning, wilskracht en zelfbeheersing."
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/7-De-Zegewagen.jpg",
+    "betekenis": "Betekenis van De Zegewagen in het Nederlands."
   },
   {
     "nummer": 8,
     "naam": "Kracht",
-    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/8-Strength.jpg",
-    "betekenis": "Symboliseert moed, innerlijke kracht en geduld."
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/8-Kracht.jpg",
+    "betekenis": "Betekenis van Kracht in het Nederlands."
   },
   {
     "nummer": 9,
     "naam": "De Kluizenaar",
-    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/9-The-Hermit.jpg",
-    "betekenis": "Verwijst naar zelfreflectie, wijsheid en een zoektocht naar waarheid."
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/9-De-Kluizenaar.jpg",
+    "betekenis": "Betekenis van De Kluizenaar in het Nederlands."
+  },
+  {
+    "nummer": 10,
+    "naam": "Rad van Fortuin",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/10-Rad-van-Fortuin.jpg",
+    "betekenis": "Betekenis van Rad van Fortuin in het Nederlands."
+  },
+  {
+    "nummer": 11,
+    "naam": "Gerechtigheid",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/11-Gerechtigheid.jpg",
+    "betekenis": "Betekenis van Gerechtigheid in het Nederlands."
+  },
+  {
+    "nummer": 12,
+    "naam": "De Gehangene",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/12-De-Gehangene.jpg",
+    "betekenis": "Betekenis van De Gehangene in het Nederlands."
+  },
+  {
+    "nummer": 13,
+    "naam": "De Dood",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/13-De-Dood.jpg",
+    "betekenis": "Betekenis van De Dood in het Nederlands."
+  },
+  {
+    "nummer": 14,
+    "naam": "Gematigdheid",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/14-Gematigdheid.jpg",
+    "betekenis": "Betekenis van Gematigdheid in het Nederlands."
+  },
+  {
+    "nummer": 15,
+    "naam": "De Duivel",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/15-De-Duivel.jpg",
+    "betekenis": "Betekenis van De Duivel in het Nederlands."
+  },
+  {
+    "nummer": 16,
+    "naam": "De Toren",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/16-De-Toren.jpg",
+    "betekenis": "Betekenis van De Toren in het Nederlands."
+  },
+  {
+    "nummer": 17,
+    "naam": "De Ster",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/17-De-Ster.jpg",
+    "betekenis": "Betekenis van De Ster in het Nederlands."
+  },
+  {
+    "nummer": 18,
+    "naam": "De Maan",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/18-De-Maan.jpg",
+    "betekenis": "Betekenis van De Maan in het Nederlands."
+  },
+  {
+    "nummer": 19,
+    "naam": "De Zon",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/19-De-Zon.jpg",
+    "betekenis": "Betekenis van De Zon in het Nederlands."
+  },
+  {
+    "nummer": 20,
+    "naam": "Het Oordeel",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/20-Het-Oordeel.jpg",
+    "betekenis": "Betekenis van Het Oordeel in het Nederlands."
+  },
+  {
+    "nummer": 21,
+    "naam": "De Wereld",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/21-De-Wereld.jpg",
+    "betekenis": "Betekenis van De Wereld in het Nederlands."
+  },
+  {
+    "nummer": 22,
+    "naam": "Aas van Staven",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/22-Aas-van-Staven.jpg",
+    "betekenis": "Betekenis van Aas van Staven in het Nederlands."
+  },
+  {
+    "nummer": 23,
+    "naam": "Twee van Staven",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/23-Twee-van-Staven.jpg",
+    "betekenis": "Betekenis van Twee van Staven in het Nederlands."
+  },
+  {
+    "nummer": 24,
+    "naam": "Drie van Staven",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/24-Drie-van-Staven.jpg",
+    "betekenis": "Betekenis van Drie van Staven in het Nederlands."
+  },
+  {
+    "nummer": 25,
+    "naam": "Vier van Staven",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/25-Vier-van-Staven.jpg",
+    "betekenis": "Betekenis van Vier van Staven in het Nederlands."
+  },
+  {
+    "nummer": 26,
+    "naam": "Vijf van Staven",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/26-Vijf-van-Staven.jpg",
+    "betekenis": "Betekenis van Vijf van Staven in het Nederlands."
+  },
+  {
+    "nummer": 27,
+    "naam": "Zes van Staven",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/27-Zes-van-Staven.jpg",
+    "betekenis": "Betekenis van Zes van Staven in het Nederlands."
+  },
+  {
+    "nummer": 28,
+    "naam": "Zeven van Staven",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/28-Zeven-van-Staven.jpg",
+    "betekenis": "Betekenis van Zeven van Staven in het Nederlands."
+  },
+  {
+    "nummer": 29,
+    "naam": "Acht van Staven",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/29-Acht-van-Staven.jpg",
+    "betekenis": "Betekenis van Acht van Staven in het Nederlands."
+  },
+  {
+    "nummer": 30,
+    "naam": "Negen van Staven",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/30-Negen-van-Staven.jpg",
+    "betekenis": "Betekenis van Negen van Staven in het Nederlands."
+  },
+  {
+    "nummer": 31,
+    "naam": "Tien van Staven",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/31-Tien-van-Staven.jpg",
+    "betekenis": "Betekenis van Tien van Staven in het Nederlands."
+  },
+  {
+    "nummer": 32,
+    "naam": "Page van Staven",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/32-Page-van-Staven.jpg",
+    "betekenis": "Betekenis van Page van Staven in het Nederlands."
+  },
+  {
+    "nummer": 33,
+    "naam": "Ridder van Staven",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/33-Ridder-van-Staven.jpg",
+    "betekenis": "Betekenis van Ridder van Staven in het Nederlands."
+  },
+  {
+    "nummer": 34,
+    "naam": "Koningin van Staven",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/34-Koningin-van-Staven.jpg",
+    "betekenis": "Betekenis van Koningin van Staven in het Nederlands."
+  },
+  {
+    "nummer": 35,
+    "naam": "Koning van Staven",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/35-Koning-van-Staven.jpg",
+    "betekenis": "Betekenis van Koning van Staven in het Nederlands."
+  },
+  {
+    "nummer": 36,
+    "naam": "Aas van Bekers",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/36-Aas-van-Bekers.jpg",
+    "betekenis": "Betekenis van Aas van Bekers in het Nederlands."
+  },
+  {
+    "nummer": 37,
+    "naam": "Twee van Bekers",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/37-Twee-van-Bekers.jpg",
+    "betekenis": "Betekenis van Twee van Bekers in het Nederlands."
+  },
+  {
+    "nummer": 38,
+    "naam": "Drie van Bekers",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/38-Drie-van-Bekers.jpg",
+    "betekenis": "Betekenis van Drie van Bekers in het Nederlands."
+  },
+  {
+    "nummer": 39,
+    "naam": "Vier van Bekers",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/39-Vier-van-Bekers.jpg",
+    "betekenis": "Betekenis van Vier van Bekers in het Nederlands."
+  },
+  {
+    "nummer": 40,
+    "naam": "Vijf van Bekers",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/40-Vijf-van-Bekers.jpg",
+    "betekenis": "Betekenis van Vijf van Bekers in het Nederlands."
+  },
+  {
+    "nummer": 41,
+    "naam": "Zes van Bekers",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/41-Zes-van-Bekers.jpg",
+    "betekenis": "Betekenis van Zes van Bekers in het Nederlands."
+  },
+  {
+    "nummer": 42,
+    "naam": "Zeven van Bekers",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/42-Zeven-van-Bekers.jpg",
+    "betekenis": "Betekenis van Zeven van Bekers in het Nederlands."
+  },
+  {
+    "nummer": 43,
+    "naam": "Acht van Bekers",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/43-Acht-van-Bekers.jpg",
+    "betekenis": "Betekenis van Acht van Bekers in het Nederlands."
+  },
+  {
+    "nummer": 44,
+    "naam": "Negen van Bekers",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/44-Negen-van-Bekers.jpg",
+    "betekenis": "Betekenis van Negen van Bekers in het Nederlands."
+  },
+  {
+    "nummer": 45,
+    "naam": "Tien van Bekers",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/45-Tien-van-Bekers.jpg",
+    "betekenis": "Betekenis van Tien van Bekers in het Nederlands."
+  },
+  {
+    "nummer": 46,
+    "naam": "Page van Bekers",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/46-Page-van-Bekers.jpg",
+    "betekenis": "Betekenis van Page van Bekers in het Nederlands."
+  },
+  {
+    "nummer": 47,
+    "naam": "Ridder van Bekers",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/47-Ridder-van-Bekers.jpg",
+    "betekenis": "Betekenis van Ridder van Bekers in het Nederlands."
+  },
+  {
+    "nummer": 48,
+    "naam": "Koningin van Bekers",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/48-Koningin-van-Bekers.jpg",
+    "betekenis": "Betekenis van Koningin van Bekers in het Nederlands."
+  },
+  {
+    "nummer": 49,
+    "naam": "Koning van Bekers",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/49-Koning-van-Bekers.jpg",
+    "betekenis": "Betekenis van Koning van Bekers in het Nederlands."
+  },
+  {
+    "nummer": 50,
+    "naam": "Aas van Zwaarden",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/50-Aas-van-Zwaarden.jpg",
+    "betekenis": "Betekenis van Aas van Zwaarden in het Nederlands."
+  },
+  {
+    "nummer": 51,
+    "naam": "Twee van Zwaarden",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/51-Twee-van-Zwaarden.jpg",
+    "betekenis": "Betekenis van Twee van Zwaarden in het Nederlands."
+  },
+  {
+    "nummer": 52,
+    "naam": "Drie van Zwaarden",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/52-Drie-van-Zwaarden.jpg",
+    "betekenis": "Betekenis van Drie van Zwaarden in het Nederlands."
+  },
+  {
+    "nummer": 53,
+    "naam": "Vier van Zwaarden",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/53-Vier-van-Zwaarden.jpg",
+    "betekenis": "Betekenis van Vier van Zwaarden in het Nederlands."
+  },
+  {
+    "nummer": 54,
+    "naam": "Vijf van Zwaarden",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/54-Vijf-van-Zwaarden.jpg",
+    "betekenis": "Betekenis van Vijf van Zwaarden in het Nederlands."
+  },
+  {
+    "nummer": 55,
+    "naam": "Zes van Zwaarden",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/55-Zes-van-Zwaarden.jpg",
+    "betekenis": "Betekenis van Zes van Zwaarden in het Nederlands."
+  },
+  {
+    "nummer": 56,
+    "naam": "Zeven van Zwaarden",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/56-Zeven-van-Zwaarden.jpg",
+    "betekenis": "Betekenis van Zeven van Zwaarden in het Nederlands."
+  },
+  {
+    "nummer": 57,
+    "naam": "Acht van Zwaarden",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/57-Acht-van-Zwaarden.jpg",
+    "betekenis": "Betekenis van Acht van Zwaarden in het Nederlands."
+  },
+  {
+    "nummer": 58,
+    "naam": "Negen van Zwaarden",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/58-Negen-van-Zwaarden.jpg",
+    "betekenis": "Betekenis van Negen van Zwaarden in het Nederlands."
+  },
+  {
+    "nummer": 59,
+    "naam": "Tien van Zwaarden",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/59-Tien-van-Zwaarden.jpg",
+    "betekenis": "Betekenis van Tien van Zwaarden in het Nederlands."
+  },
+  {
+    "nummer": 60,
+    "naam": "Page van Zwaarden",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/60-Page-van-Zwaarden.jpg",
+    "betekenis": "Betekenis van Page van Zwaarden in het Nederlands."
+  },
+  {
+    "nummer": 61,
+    "naam": "Ridder van Zwaarden",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/61-Ridder-van-Zwaarden.jpg",
+    "betekenis": "Betekenis van Ridder van Zwaarden in het Nederlands."
+  },
+  {
+    "nummer": 62,
+    "naam": "Koningin van Zwaarden",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/62-Koningin-van-Zwaarden.jpg",
+    "betekenis": "Betekenis van Koningin van Zwaarden in het Nederlands."
+  },
+  {
+    "nummer": 63,
+    "naam": "Koning van Zwaarden",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/63-Koning-van-Zwaarden.jpg",
+    "betekenis": "Betekenis van Koning van Zwaarden in het Nederlands."
+  },
+  {
+    "nummer": 64,
+    "naam": "Aas van Pentakels",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/64-Aas-van-Pentakels.jpg",
+    "betekenis": "Betekenis van Aas van Pentakels in het Nederlands."
+  },
+  {
+    "nummer": 65,
+    "naam": "Twee van Pentakels",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/65-Twee-van-Pentakels.jpg",
+    "betekenis": "Betekenis van Twee van Pentakels in het Nederlands."
+  },
+  {
+    "nummer": 66,
+    "naam": "Drie van Pentakels",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/66-Drie-van-Pentakels.jpg",
+    "betekenis": "Betekenis van Drie van Pentakels in het Nederlands."
+  },
+  {
+    "nummer": 67,
+    "naam": "Vier van Pentakels",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/67-Vier-van-Pentakels.jpg",
+    "betekenis": "Betekenis van Vier van Pentakels in het Nederlands."
+  },
+  {
+    "nummer": 68,
+    "naam": "Vijf van Pentakels",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/68-Vijf-van-Pentakels.jpg",
+    "betekenis": "Betekenis van Vijf van Pentakels in het Nederlands."
+  },
+  {
+    "nummer": 69,
+    "naam": "Zes van Pentakels",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/69-Zes-van-Pentakels.jpg",
+    "betekenis": "Betekenis van Zes van Pentakels in het Nederlands."
+  },
+  {
+    "nummer": 70,
+    "naam": "Zeven van Pentakels",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/70-Zeven-van-Pentakels.jpg",
+    "betekenis": "Betekenis van Zeven van Pentakels in het Nederlands."
+  },
+  {
+    "nummer": 71,
+    "naam": "Acht van Pentakels",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/71-Acht-van-Pentakels.jpg",
+    "betekenis": "Betekenis van Acht van Pentakels in het Nederlands."
+  },
+  {
+    "nummer": 72,
+    "naam": "Negen van Pentakels",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/72-Negen-van-Pentakels.jpg",
+    "betekenis": "Betekenis van Negen van Pentakels in het Nederlands."
+  },
+  {
+    "nummer": 73,
+    "naam": "Tien van Pentakels",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/73-Tien-van-Pentakels.jpg",
+    "betekenis": "Betekenis van Tien van Pentakels in het Nederlands."
+  },
+  {
+    "nummer": 74,
+    "naam": "Page van Pentakels",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/74-Page-van-Pentakels.jpg",
+    "betekenis": "Betekenis van Page van Pentakels in het Nederlands."
+  },
+  {
+    "nummer": 75,
+    "naam": "Ridder van Pentakels",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/75-Ridder-van-Pentakels.jpg",
+    "betekenis": "Betekenis van Ridder van Pentakels in het Nederlands."
+  },
+  {
+    "nummer": 76,
+    "naam": "Koningin van Pentakels",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/76-Koningin-van-Pentakels.jpg",
+    "betekenis": "Betekenis van Koningin van Pentakels in het Nederlands."
+  },
+  {
+    "nummer": 77,
+    "naam": "Koning van Pentakels",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/77-Koning-van-Pentakels.jpg",
+    "betekenis": "Betekenis van Koning van Pentakels in het Nederlands."
   }
 ]
