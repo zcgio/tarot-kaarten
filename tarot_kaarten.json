@@ -1,0 +1,62 @@
+[
+  {
+    "nummer": 0,
+    "naam": "De Dwaas",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/0-The-Fool.jpg",
+    "betekenis": "Staat voor nieuwe beginnen, spontaniteit en het nemen van risico's."
+  },
+  {
+    "nummer": 1,
+    "naam": "De Magiër",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/1-The-Magician.jpg",
+    "betekenis": "Symboliseert kracht, vaardigheid en het benutten van potentieel."
+  },
+  {
+    "nummer": 2,
+    "naam": "De Hogepriesteres",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/2-The-High-Priestess.jpg",
+    "betekenis": "Staat voor intuïtie, geheimen en innerlijke wijsheid."
+  },
+  {
+    "nummer": 3,
+    "naam": "De Keizerin",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/3-The-Empress.jpg",
+    "betekenis": "Symboliseert vruchtbaarheid, overvloed en moederlijke zorg."
+  },
+  {
+    "nummer": 4,
+    "naam": "De Keizer",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/4-The-Emperor.jpg",
+    "betekenis": "Staat voor stabiliteit, autoriteit en structuur."
+  },
+  {
+    "nummer": 5,
+    "naam": "De Hiërofant",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/5-The-Hierophant.jpg",
+    "betekenis": "Verwijst naar traditie, spiritualiteit en leren van een mentor."
+  },
+  {
+    "nummer": 6,
+    "naam": "De Geliefden",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/6-The-Lovers.jpg",
+    "betekenis": "Gaat over liefde, keuzes en verbondenheid."
+  },
+  {
+    "nummer": 7,
+    "naam": "De Zegewagen",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/7-The-Chariot.jpg",
+    "betekenis": "Staat voor overwinning, wilskracht en zelfbeheersing."
+  },
+  {
+    "nummer": 8,
+    "naam": "Kracht",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/8-Strength.jpg",
+    "betekenis": "Symboliseert moed, innerlijke kracht en geduld."
+  },
+  {
+    "nummer": 9,
+    "naam": "De Kluizenaar",
+    "afbeelding": "https://openminded6.wpcomstaging.com/wp-content/uploads/2025/03/9-The-Hermit.jpg",
+    "betekenis": "Verwijst naar zelfreflectie, wijsheid en een zoektocht naar waarheid."
+  }
+]
